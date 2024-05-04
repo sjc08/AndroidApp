@@ -2,6 +2,12 @@
 
 This is a  better template for .NET Android projects.
 
+**Icon**
+
+[icon.png](images/icon.png) is the icon of the template.
+
+The app icon is from https://icon.kitchen/i/H4sIAAAAAAAAAx3MOw6AIBBF0b282hW4De2MxeiMQOSjICaGsHfF8p7iFtxksyT0BUxxH7U4Qb%2BRTdJhUeNzfAkViY34C80GTT%2BmM5u4WkHt4AJn2zYTyHMMhjHXF%2BIOlK9dAAAA
+
 **AboutResources.txt**
 
 ```
