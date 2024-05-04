@@ -2,6 +2,10 @@
 
 This is a  better template for .NET Android projects.
 
+[AndroidApp.zip](AndroidApp.zip)
+
+> A project for creating a standard .NET Android application
+
 ## Why?
 
 The **.NET Android application** template provided in **Visual Studio** had some minor issues, so I tried to do this.
