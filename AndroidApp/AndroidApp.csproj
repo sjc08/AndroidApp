@@ -8,5 +8,6 @@
     <ApplicationId>com.example.project</ApplicationId>
     <ApplicationVersion>1</ApplicationVersion>
     <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
+    <AndroidPackageFormat>apk</AndroidPackageFormat>
   </PropertyGroup>
 </Project>
