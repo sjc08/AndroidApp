@@ -2,13 +2,39 @@
 
 This is a  better template for .NET Android projects.
 
-**Icon**
+## Why?
+
+The **.NET Android application** template provided in **Visual Studio** had some minor issues, so I tried to do this.
+
+### What was changed?
+
+Most of the files have been modified to be as neat as possible and consistent with Google's Android project.  Don't worry, I've kept the best of both.
+
+The following references are used:
+
+https://learn.microsoft.com/xamarin/android/deploy-test/building-apps/build-properties
+
+https://developer.android.com/guide/topics/manifest/manifest-intro#example
+
+https://developer.android.com/guide/topics/resources/layout-resource
+
+https://developer.android.com/guide/topics/resources/string-resource
+
+https://developer.android.com/develop/ui/views/launch/icon_design_adaptive
+
+https://github.com/android/uamp
+
+https://github.com/android10/Android-CleanArchitecture
+
+## More Info
+
+### Icon
 
 [icon.png](images/icon.png) is the icon of the template.
 
 The app icon is from https://icon.kitchen/i/H4sIAAAAAAAAAx3MOw6AIBBF0b282hW4De2MxeiMQOSjICaGsHfF8p7iFtxksyT0BUxxH7U4Qb%2BRTdJhUeNzfAkViY34C80GTT%2BmM5u4WkHt4AJn2zYTyHMMhjHXF%2BIOlK9dAAAA
 
-**AboutResources.txt**
+### AboutResources.txt
 
 ```
 Images, layout descriptions, binary blobs and string dictionaries can be included 
