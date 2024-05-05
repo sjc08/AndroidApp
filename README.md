@@ -12,6 +12,8 @@ The **.NET Android application** template provided in **Visual Studio** had some
 
 ### What was changed?
 
+See the [comparison](https://github.com/SJC08/AndroidApp/compare/7a4a524..master).
+
 Most of the files have been modified to be as neat as possible and consistent with Google's Android project.  Don't worry, I've kept the best of both.
 
 The following references are used:
